@@ -22,3 +22,11 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
+
+## Windows
+
+1. Start Visual Studio
+2. Go to Tools -> Import and Export Settings... -> Import selected environment settings
+  [Choose whether you want to backup existing settings]
+3. Click Browse and select the .vssettings file
+4. Click Finish
